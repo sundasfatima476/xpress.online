@@ -8,7 +8,7 @@ export const PHOTOS = {
   manSuitPose: "1620122830785-a18b43585b44", // male fashion pose, suit jacket
   womanCoatGreen: "1728318817167-902a85482317", // woman walking, green-toned coat
   womanCoatAutumn: "1643577999708-ec630df73a7b", // woman white coat, scarf, editorial
-  flatLayShirtShoes: "1441035844538-e2ce7dba066b", // flat lay: shirt, shoes, accessories
+  flatLayShirtShoes: "1584865288642-42078afe6942", // flat lay: shirt, shoes, accessories
   whiteSneakers: "1676379827610-c380c52db0c6", // white sneakers product shot
   designerHandbags: "1761646238914-2dad041491e2", // handbags, neutral/green background
   fashionStudio: "1753164597544-a2736833357e", // fashion design studio / atelier interior
